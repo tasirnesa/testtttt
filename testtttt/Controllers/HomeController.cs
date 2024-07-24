@@ -10,7 +10,7 @@ namespace testtttt.Controllers
     {
         public ActionResult Index()
         {
-            
+            String = "test";
             return View();
         }
 
